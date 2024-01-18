@@ -10,8 +10,7 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hugo-388&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark" alt="Hugo-388 Github Stats">
-
+<img src="https://github-readme-stats.vercel.app/api?username=Hugo-388&show_icons=true&theme=github_dark" alt="Hugo-388 Github Stats">
 
 
 

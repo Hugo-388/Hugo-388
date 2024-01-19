@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hugo-388&show_icons=true&theme=github_dark" alt="Hugo-388 Github Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-388&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&langs_count=10&&hide_border=true&locale=en&custom_title=Top%20%Langage"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-388&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=ecustom_title=Top%20%Langage"
     alt="Top langage">
 
 

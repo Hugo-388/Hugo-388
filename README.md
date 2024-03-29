@@ -1,9 +1,9 @@
 <body>
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
-<ul>
-<li>Première année BTS SIO option SLAM</li>
-</ul>
+
+📚 Première année BTS SIO option SLAM
+
 
 
 

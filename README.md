@@ -22,3 +22,11 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-388&langs_count=10&theme=github_dark&hide_border=true&locale=en&custom_title=Top%20%Langage" alt="Top Languages" >
+
+
+### Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugo-388/hugo-388/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugo-388/hugo-388/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hugo-388/hugo-388/output/github-contribution-grid-snake.svg">
+</picture>

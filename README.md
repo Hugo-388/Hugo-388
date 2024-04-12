@@ -22,5 +22,3 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-388&langs_count=10&theme=github_dark&hide_border=true&locale=en&custom_title=Top%20%Langage" alt="Top Languages" >
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/hugo-388/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)

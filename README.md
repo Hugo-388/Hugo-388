@@ -5,8 +5,8 @@
 - 📚 Première année BTS SIO option SLAM
 
 
-- 🌱 J'apprends actuellement **Java, Python**
-- ⚡ Fun fact **Toujours à la recherche de nouveautés**
+- 🌱 J'apprends actuellement : **Java, Python**
+- ⚡ Fun fact : **Toujours à la recherche de nouveautés**
 
 
 ### Compétences

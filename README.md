@@ -24,3 +24,30 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-388&langs_count=10&theme=github_dark&hide_border=true&locale=en&custom_title=Top%20%Langage" alt="Top Languages" >
 
 https://github.com/hugo-388/hugo-388/blob/examples/metrics.plugin.isocalendar.svg">
+
+```yaml
+name: Metrics embed
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Run Metrics
+      uses: hugo-388/hugo-388
+      with:
+        # Base content
+        base: "header, isocalendar"
+        # Indepth mode
+        base_indepth: true
+        # GitHub Token
+        token: ${{ secrets.YOUR_TOKEN }}
+        # Plugin: Isocalendar
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year

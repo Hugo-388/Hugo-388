@@ -12,7 +12,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Run Metrics
-      uses: hugo-388/README.md
+      uses: lowlighter/metrics@latest
       with:
         # Base content
         base: "header, isocalendar"

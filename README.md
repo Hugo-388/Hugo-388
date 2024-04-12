@@ -25,9 +25,4 @@
 
 
 ### Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugo-388/hugo-388/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugo-388/hugo-388/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hugo-388/hugo-388/output/github-contribution-grid-snake.svg">
-</picture>
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+![Metrics](https://metrics.lecoq.io/hugo-388?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FParis)

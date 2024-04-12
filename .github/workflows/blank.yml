@@ -8,7 +8,7 @@
     base_indepth: true
     
     # GitHub Token
-    token: ${{ secrets.GITHUB_TOKEN }}
+    token: ${{ secrets.YOUR_TOKEN }}
     
     # Plugin: Isocalendar
     plugin_isocalendar: yes

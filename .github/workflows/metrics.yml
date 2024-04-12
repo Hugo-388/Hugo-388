@@ -1,8 +1,7 @@
 name: Half-year calendar
 
 on:
- schedule:
-    - cron: '0 0 * * *' # Exécute le workflow tous les jours à minuit
+ workflow_dispatch: # Permet de déclencher manuellement le workflow
 
 jobs:
  generate-calendar:

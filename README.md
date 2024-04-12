@@ -24,6 +24,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-388&langs_count=10&theme=github_dark&hide_border=true&locale=en&custom_title=Top%20%Langage" alt="Top Languages" >
 
 ![Metrics](/github-metrics.svg)
-
-
-![Workflow Status](https://github.com/hugo-388/hugo-388/actions/workflows/metrics.yml/badge.svg)

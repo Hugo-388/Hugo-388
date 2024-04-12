@@ -1,0 +1,16 @@
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Votre token GitHub avec les permissions nécessaires
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Activation du plugin isocalendar
+          plugin_isocalendar: 'yes'
+          plugin_isocalendar_duration: 'full-year' # Affiche les données de l'année complète
+          plugin_isocalendar_week: 'true' # Affiche les numéros de semaine
+          plugin_isocalendar_days: 'true' # Affiche les jours
+          plugin_isocalendar_charts: 'contributions, commits-language' # Affiche les contributions et les langages utilisés dans les commits

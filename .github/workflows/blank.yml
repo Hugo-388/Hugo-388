@@ -1,0 +1,15 @@
+- name: Metrics embed
+  uses: lowlighter/metrics@latest
+  with:
+    # Base content
+    base: "header, isocalendar"
+    
+    # Indepth mode
+    base_indepth: true
+    
+    # GitHub Token
+    token: ${{ secrets.GITHUB_TOKEN }}
+    
+    # Plugin: Isocalendar
+    plugin_isocalendar: yes
+    plugin_isocalendar_duration: full-year

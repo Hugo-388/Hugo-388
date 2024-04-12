@@ -1,26 +1,20 @@
-name: Metrics embed
+name: Half-year calendar
 
 on:
-  push:
-    branches:
-      - main
+ schedule:
+    - cron: '0 0 * * *' # Exécute le workflow tous les jours à minuit
 
 jobs:
-  build:
+ generate-calendar:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: Run Metrics
-      uses: lowlighter/metrics@latest
-      with:
-        # Base content
-        base: "header, isocalendar"
-        # Indepth mode
-        base_indepth: true
-        # GitHub Token
-        token: ${{ secrets.YOUR_TOKEN }}
-        # Plugin: Isocalendar
-        plugin_isocalendar: yes
-        plugin_isocalendar_duration: half-year  # Change to half-year
-        filename: metrics.svg  # Output file name
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.YOUR_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes

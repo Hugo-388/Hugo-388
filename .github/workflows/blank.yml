@@ -1,5 +1,5 @@
 - name: Metrics embed
-  uses: lowlighter/metrics@latest
+  uses: hugo-388/hugo-388
   with:
     # Base content
     base: "header, isocalendar"

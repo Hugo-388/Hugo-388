@@ -1,25 +1,23 @@
-name: Metrics embed
+name: Generate Metrics
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 0 * * *'  # Exécute cette action une fois par jour
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: Run Metrics
-      uses: lowlighter/metrics@latest
-      with:
-        # Base content
-        base: "header, isocalendar"
-        # Indepth mode
-        base_indepth: true
-        # GitHub Token
-        token: ${{ secrets.YOUR_TOKEN }}
-        # Plugin: Isocalendar
-        plugin_isocalendar: yes
-        plugin_isocalendar_duration: full-year
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Votre token GitHub
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Les plugins que vous souhaitez utiliser
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Le nom du fichier de sortie
+          filename: metrics.svg

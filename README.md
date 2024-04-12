@@ -25,29 +25,3 @@
 
 https://github.com/hugo-388/hugo-388/blob/examples/metrics.plugin.isocalendar.svg">
 
-```yaml
-name: Metrics embed
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: Run Metrics
-      uses: hugo-388/hugo-388
-      with:
-        # Base content
-        base: "header, isocalendar"
-        # Indepth mode
-        base_indepth: true
-        # GitHub Token
-        token: ${{ secrets.YOUR_TOKEN }}
-        # Plugin: Isocalendar
-        plugin_isocalendar: yes
-        plugin_isocalendar_duration: full-year

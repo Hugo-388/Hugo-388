@@ -2,10 +2,10 @@
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
 
-- 📚 Première année BTS SIO option SLAM
+- 📚 Deuxième année BTS SIO option SLAM
 
 
-- 🌱 J'apprends actuellement : **Java, Python**
+- 🌱 J'apprends actuellement : **Java, Android Studio**
 - ⚡ Fun fact : **Toujours à la recherche de nouveautés**
 
 

@@ -15,6 +15,8 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="50" height="50"></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" width="50" height="50"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://blog.lecacheur.com/wp-content/uploads/2014/10/git_logo.png" alt="GIT" width="50" height="50"></a>
+
 
 ### Stats
 

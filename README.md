@@ -2,9 +2,7 @@
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
 
-- 📚 Deuxième année BTS SIO option SLAM
-
-
+- 📚 Licence MIAGE à L'**Université de Grenoble Alpes**
 - 🌱 J'apprends actuellement : **Java, Android Studio**
 - ⚡ Fun fact : **Toujours à la recherche de nouveautés**
 

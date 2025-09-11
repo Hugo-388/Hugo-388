@@ -10,7 +10,7 @@
 ### Compétences
 
 <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="50" height="50"></a>
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/others/css.svg" alt="CSS3" width="70" height="70"></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png" alt="CSS3" width="50" height="50"></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" width="50" height="50"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://blog.lecacheur.com/wp-content/uploads/2014/10/git_logo.png" alt="GIT" width="50" height="50"></a>

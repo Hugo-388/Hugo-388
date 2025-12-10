@@ -22,8 +22,6 @@
 
 ### 📊 Stats
 
-### 📊 Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Hugo-388&show_icons=true&theme=github_dark&hide_border=true" alt="Hugo-388 Github Stats" />
 </p>

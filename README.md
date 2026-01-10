@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub 👋
 
 - 📚 Licence MIAGE à L'**Université de Grenoble Alpes**
-- 🌱 J'apprends actuellement : **Java, XML, C#**
+- 🌱 J'apprends actuellement : **Java, TypeScript, Angular **
 - ⚡ Fun fact : **Toujours à la recherche de nouveautés**
 
 ---
